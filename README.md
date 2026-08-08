@@ -1,0 +1,2 @@
+# Sequence-detector
+vs code
